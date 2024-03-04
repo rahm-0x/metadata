@@ -2,5 +2,5 @@
     "name": "TEST PEPE",
     "symbol": "TPEPE",
     "description": "Test PEPE",
-    "image": "https://raw.githubusercontent.com/rahm-0x/metadata/main/pepe.png"
+    "image": "https://github.com/rahm-0x/metadata/blob/main/pepe.png?raw=true"
   }
